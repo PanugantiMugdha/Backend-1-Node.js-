@@ -1,0 +1,12 @@
+# Node REPL
+- # REPL:
+  - Read.
+  - Evaluate.
+  - Print.
+  - Loop.
+- To open node we must type **"node"** in terminal/command prompt.
+- Node helps in running JavaScript outside the browser.
+- Ex: console.log("hello");
+      - **Output**: hello.
+- **.exit** command is used to exit from Node.
+- **.help** command gives us all the commands.
